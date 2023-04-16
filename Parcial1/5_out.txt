@@ -1,0 +1,40 @@
+"Adam Smith"	1
+"Andrew Dickson White"	1
+"Archibald Williams"	1
+"Arthur Conan Doyle"	1
+"Bram Stoker"	1
+"Brooks Henderley"	1
+"C. Collodi--Pseudonym of Carlo Lorenzini"	1
+"Charles Darwin"	1
+"E. W. Hornung"	1
+"Edgar Allan Poe"	4
+"Edgar Rice Burroughs"	2
+"F. Hadland (Frederick Hadland) Davis"	1
+"Frank Rinder"	1
+"Fyodor Dostoyevsky"	1
+"G. K. Chesterton"	1
+"H. A. Guerber"	1
+"Herbert A. Shearer"	1
+"Homer"	1
+"Isaac Newton"	1
+"Jane Austen"	1
+"John Addington Symonds"	1
+"Jonathan Thayer Lincoln"	1
+"Jules Verne"	1
+"Lewis Carroll"	1
+"Marcus Aurelius"	1
+"Mark Twain (Samuel Clemens)"	2
+"Mary H. Foster and Mabel H. Cummings"	1
+"Miguel de Cervantes Saavedra"	1
+"Millard Fillmore"	1
+"Oscar Wilde"	1
+"Project Gutenberg"	1
+"Rebecca Harding Davis"	1
+"Saki"	1
+"Scott Hemphill"	1
+"Stephen Leatherwood"	1
+"Thomas Hobbes"	1
+"Various"	1
+"William Schwenk Gilbert and Arthur Sullivan"	1
+"William Shakespeare"	1
+"Willis Eugene Tower"	1

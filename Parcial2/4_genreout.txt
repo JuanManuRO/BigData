@@ -1,0 +1,24 @@
+, Peggle Deluxe
+'Adventure', Pokémon White
+'Arcade', Mighty No. 9
+'Brawler', Ninja Gaiden Black
+'Card & Board Game', Marvel Snap
+'Fighting', Twisted Metal
+'Indie', Chicory: A Colorful Tale
+'MOBA', Pokémon Unite
+'Music', Rez Infinite
+'Pinball', Pokémon Pinball: Ruby & Sapphire
+'Platform', Mega Man ZX Advent
+'Point-and-Click', Danganronpa 2: Goodbye Despair
+'Puzzle', Chicory: A Colorful Tale
+'Quiz/Trivia', Wordle
+'RPG', Pokémon White
+'Racing', Twisted Metal
+'Real Time Strategy', Spore
+'Shooter', Alpha Protocol
+'Simulator', Animal Crossing: New Leaf
+'Sport', Mario Strikers: Battle League
+'Strategy', Fire Emblem: Awakening
+'Tactical', Metal Gear Solid 3: Snake Eater
+'Turn Based Strategy', Pokémon White
+'Visual Novel', Wonderful Everyday: Down the Rabbit-Hole

@@ -1,0 +1,29 @@
+2009, Technology, 2434795900
+2008, Technology, 2402610700
+2007, Technology, 2057943600
+2006, Technology, 2178151700
+2005, Technology, 1962607900
+2004, Technology, 1960307400
+2003, Technology, 1926174300
+2002, Technology, 2248519700
+2001, Technology, 1873570200
+2000, Technology, 1372117400
+1999, Technology, 1572675800
+1998, Technology, 1475568500
+1996, Technology, 1555767700
+1995, Technology, 1752477600
+1994, Technology, 1336956200
+1993, Technology, 1019456800
+1992, Technology, 1088125800
+1991, Technology, 915600100
+1990, Technology, 916125600
+1989, Technology, 498085300
+1988, Technology, 384274100
+1987, Technology, 505738900
+1986, Technology, 101949900
+1985, Technology, 67961300
+2010, Technology, 264509200
+1997, Technology, 1528477400
+1984, Technology, 3977600
+1983, Consumer Non-Durables, 1084000
+1982, Consumer Non-Durables, 1443600
