@@ -1,0 +1,3 @@
+Problematica:
+
+Se buscar realizar un conteo de la fuente de los tweets por cada media hora representado como 30 segundos dentro del stream utilizando ventana de tiempo de 60 segundos y de slide de 30 segundos.
